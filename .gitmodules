@@ -1,15 +1,19 @@
 [submodule "juejin_p3"]
 	path = juejin_p3
 	url = git@github.com:songjianzaina/juejin_p3.git
+	branch = master
 [submodule "juejin_p2"]
 	path = juejin_p2
 	url = git@github.com:songjianzaina/juejin_p2.git
+	branch = master
 [submodule "juejin_p1"]
 	path = juejin_p1
 	url = git@github.com:songjianzaina/juejin_p1.git
+	branch = master
 [submodule "juejin_p4"]
 	path = juejin_p4
 	url = git@github.com:songjianzaina/juejin_p4.git
+	branch = master
 [submodule "juejin_p5"]
 	path = juejin_p5
 	url = git@github.com:songjianzaina/juejin_p5.git
