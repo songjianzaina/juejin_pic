@@ -10,3 +10,203 @@
 [submodule "juejin_p4"]
 	path = juejin_p4
 	url = git@github.com:songjianzaina/juejin_p4.git
+[submodule "juejin_p5"]
+	path = juejin_p5
+	url = git@github.com:songjianzaina/juejin_p5.git
+	branch = master
+[submodule "juejin_p6"]
+	path = juejin_p6
+	url = git@github.com:songjianzaina/juejin_p6.git
+	branch = master
+[submodule "juejin_p7"]
+	path = juejin_p7
+	url = git@github.com:songjianzaina/juejin_p7.git
+	branch = master
+[submodule "juejin_p8"]
+	path = juejin_p8
+	url = git@github.com:songjianzaina/juejin_p8.git
+	branch = master
+[submodule "juejin_p9"]
+	path = juejin_p9
+	url = git@github.com:songjianzaina/juejin_p9.git
+	branch = master
+[submodule "juejin_p10"]
+	path = juejin_p10
+	url = git@github.com:songjianzaina/juejin_p10.git
+	branch = master
+[submodule "juejin_p11"]
+	path = juejin_p11
+	url = git@github.com:songjianzaina/juejin_p11.git
+	branch = master
+[submodule "juejin_p12"]
+	path = juejin_p12
+	url = git@github.com:songjianzaina/juejin_p12.git
+	branch = master
+[submodule "juejin_p13"]
+	path = juejin_p13
+	url = git@github.com:songjianzaina/juejin_p13.git
+	branch = master
+[submodule "juejin_p14"]
+	path = juejin_p14
+	url = git@github.com:songjianzaina/juejin_p14.git
+	branch = master
+[submodule "juejin_p15"]
+	path = juejin_p15
+	url = git@github.com:songjianzaina/juejin_p15.git
+	branch = master
+[submodule "juejin_p16"]
+	path = juejin_p16
+	url = git@github.com:songjianzaina/juejin_p16.git
+	branch = master
+[submodule "juejin_p17"]
+	path = juejin_p17
+	url = git@github.com:songjianzaina/juejin_p17.git
+	branch = master
+[submodule "juejin_p18"]
+	path = juejin_p18
+	url = git@github.com:songjianzaina/juejin_p18.git
+	branch = master
+[submodule "juejin_p19"]
+	path = juejin_p19
+	url = git@github.com:songjianzaina/juejin_p19.git
+	branch = master
+[submodule "juejin_p20"]
+	path = juejin_p20
+	url = git@github.com:songjianzaina/juejin_p20.git
+	branch = master
+[submodule "juejin_p21"]
+	path = juejin_p21
+	url = git@github.com:songjianzaina/juejin_p21.git
+	branch = master
+[submodule "juejin_p22"]
+	path = juejin_p22
+	url = git@github.com:songjianzaina/juejin_p22.git
+	branch = master
+[submodule "juejin_p23"]
+	path = juejin_p23
+	url = git@github.com:songjianzaina/juejin_p23.git
+	branch = master
+[submodule "juejin_p24"]
+	path = juejin_p24
+	url = git@github.com:songjianzaina/juejin_p24.git
+	branch = master
+[submodule "juejin_p25"]
+	path = juejin_p25
+	url = git@github.com:songjianzaina/juejin_p25.git
+	branch = master
+[submodule "juejin_p26"]
+	path = juejin_p26
+	url = git@github.com:songjianzaina/juejin_p26.git
+	branch = master
+[submodule "juejin_p27"]
+	path = juejin_p27
+	url = git@github.com:songjianzaina/juejin_p27.git
+	branch = master
+[submodule "juejin_p28"]
+	path = juejin_p28
+	url = git@github.com:songjianzaina/juejin_p28.git
+	branch = master
+[submodule "juejin_p29"]
+	path = juejin_p29
+	url = git@github.com:songjianzaina/juejin_p29.git
+	branch = master
+[submodule "juejin_p30"]
+	path = juejin_p30
+	url = git@github.com:songjianzaina/juejin_p30.git
+	branch = master
+[submodule "juejin_p31"]
+	path = juejin_p31
+	url = git@github.com:songjianzaina/juejin_p31.git
+	branch = master
+[submodule "juejin_p32"]
+	path = juejin_p32
+	url = git@github.com:songjianzaina/juejin_p32.git
+	branch = master
+[submodule "juejin_p33"]
+	path = juejin_p33
+	url = git@github.com:songjianzaina/juejin_p33.git
+	branch = master
+[submodule "juejin_p34"]
+	path = juejin_p34
+	url = git@github.com:songjianzaina/juejin_p34.git
+	branch = master
+[submodule "juejin_p35"]
+	path = juejin_p35
+	url = git@github.com:songjianzaina/juejin_p35.git
+	branch = master
+[submodule "juejin_p36"]
+	path = juejin_p36
+	url = git@github.com:songjianzaina/juejin_p36.git
+	branch = master
+[submodule "juejin_p37"]
+	path = juejin_p37
+	url = git@github.com:songjianzaina/juejin_p37.git
+	branch = master
+[submodule "juejin_p38"]
+	path = juejin_p38
+	url = git@github.com:songjianzaina/juejin_p38.git
+	branch = master
+[submodule "juejin_p39"]
+	path = juejin_p39
+	url = git@github.com:songjianzaina/juejin_p39.git
+	branch = master
+[submodule "juejin_p40"]
+	path = juejin_p40
+	url = git@github.com:songjianzaina/juejin_p40.git
+	branch = master
+[submodule "juejin_p41"]
+	path = juejin_p41
+	url = git@github.com:songjianzaina/juejin_p41.git
+	branch = master
+[submodule "juejin_p42"]
+	path = juejin_p42
+	url = git@github.com:songjianzaina/juejin_p42.git
+	branch = master
+[submodule "juejin_p43"]
+	path = juejin_p43
+	url = git@github.com:songjianzaina/juejin_p43.git
+	branch = master
+[submodule "juejin_p44"]
+	path = juejin_p44
+	url = git@github.com:songjianzaina/juejin_p44.git
+	branch = master
+[submodule "juejin_p45"]
+	path = juejin_p45
+	url = git@github.com:songjianzaina/juejin_p45.git
+	branch = master
+[submodule "juejin_p46"]
+	path = juejin_p46
+	url = git@github.com:songjianzaina/juejin_p46.git
+	branch = master
+[submodule "juejin_p47"]
+	path = juejin_p47
+	url = git@github.com:songjianzaina/juejin_p47.git
+	branch = master
+[submodule "juejin_p48"]
+	path = juejin_p48
+	url = git@github.com:songjianzaina/juejin_p48.git
+	branch = master
+[submodule "juejin_p49"]
+	path = juejin_p49
+	url = git@github.com:songjianzaina/juejin_p49.git
+	branch = master
+[submodule "juejin_p50"]
+	path = juejin_p50
+	url = git@github.com:songjianzaina/juejin_p50.git
+	branch = master
+[submodule "juejin_p51"]
+	path = juejin_p51
+	url = git@github.com:songjianzaina/juejin_p51.git
+	branch = master
+[submodule "juejin_p52"]
+	path = juejin_p52
+	url = git@github.com:songjianzaina/juejin_p52.git
+	branch = master
+[submodule "juejin_p53"]
+	path = juejin_p53
+	url = git@github.com:songjianzaina/juejin_p53.git
+	branch = master
+[submodule "juejin_p54"]
+	path = juejin_p54
+	url = git@github.com:songjianzaina/juejin_p54.git
+	branch = master
