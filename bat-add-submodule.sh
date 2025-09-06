@@ -7,5 +7,5 @@
 for i in {1..54}; do
 
   #git submodule add -b master  "git@github.com:songjianzaina/juejin_p${i}.git"
-  git submodule add -b master -f "git@github.com:songjianzaina/juejin_p${i}.git"
+  git submodule add --depth 1  -b master -f "git@github.com:songjianzaina/juejin_p${i}.git" 
 done
